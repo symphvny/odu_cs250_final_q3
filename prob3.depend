@@ -1,0 +1,21 @@
+# depslib dependency file v1.0
+1575747902 source:c:\users\symph\documents\symphony_craddock_cs250_final\prob3\main.cpp
+	<iostream>
+	<string>
+	"prob3_pilot.h"
+	"prob3_person.h"
+	"prob3_soldier.h"
+
+1575745038 c:\users\symph\documents\symphony_craddock_cs250_final\prob3\prob3_soldier.h
+	"prob3_person.h"
+	<string>
+	<iostream>
+
+1575713711 c:\users\symph\documents\symphony_craddock_cs250_final\prob3\prob3_person.h
+	<iostream>
+	<string>
+
+1579739631 c:\users\symph\documents\symphony_craddock_cs250_final\prob3\prob3_pilot.h
+	"prob3_soldier.h"
+	<string>
+
